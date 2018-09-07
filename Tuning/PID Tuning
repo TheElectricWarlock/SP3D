@@ -1,0 +1,10 @@
+
+Extruder
+Kp 20.51
+Ki 1.20
+kd 87.38
+
+Heated Bed
+Kp 525.41
+Ki 101.80
+Kd 677.91
